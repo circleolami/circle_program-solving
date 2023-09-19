@@ -1,3 +1,11 @@
+/*
+Problem URL: https://www.acmicpc.net/problem/25206
+Problem Name: 너의 평점은
+Author: circleolami
+Date: 2023.09.16
+Version: 1.0
+Algorithm: math
+*/
 #include <iostream>
 using namespace std;
 

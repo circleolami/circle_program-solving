@@ -1,3 +1,11 @@
+/*
+Problem URL: https://www.acmicpc.net/problem/10988
+Problem Name: 팰린드롬인지 확인하기
+Author: circleolami
+Date: 2023.09.15
+Version: 1.0
+Algorithm: none
+*/
 #include <iostream>
 #include <string>
 using namespace std;

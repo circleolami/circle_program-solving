@@ -1,3 +1,11 @@
+/*
+Problem URL: https://www.acmicpc.net/problem/2745
+Problem Name: 진법 변환
+Author: circleolami
+Date: 2023.09.18
+Version: 1.0
+Algorithm: math
+*/
 #include <iostream>
 #include <algorithm>
 #include <cmath>

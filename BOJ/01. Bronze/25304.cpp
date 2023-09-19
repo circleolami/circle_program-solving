@@ -1,3 +1,11 @@
+/*
+Problem URL: https://www.acmicpc.net/problem/25304
+Problem Name: 영수증
+Author: circleolami
+Date: 2023.09.15
+Version: 1.0
+Algorithm: math
+*/
 #include <iostream>
 using namespace std;
 

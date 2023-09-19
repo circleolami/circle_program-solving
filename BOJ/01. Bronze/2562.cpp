@@ -1,3 +1,11 @@
+/*
+Problem URL: https://www.acmicpc.net/problem/2562
+Problem Name: 최댓값
+Author: circleolami
+Date: 2023.09.15
+Version: 1.0
+Algorithm: none
+*/
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,11 @@
+/*
+Problem URL: https://www.acmicpc.net/problem/2444
+Problem Name: 별 찍기 - 7
+Author: circleolami
+Date: 2023.09.15
+Version: 1.0
+Algorithm: none
+*/
 #include <iostream>
 using namespace std;
 

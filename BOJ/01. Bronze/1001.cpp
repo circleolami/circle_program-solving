@@ -1,3 +1,11 @@
+/*
+Problem URL: https://www.acmicpc.net/problem/1001
+Problem Name: A-B
+Author: circleolami
+Date: 2023.09.15
+Version: 1.0
+Algorithm: math
+*/
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,11 @@
+/*
+Problem URL: https://www.acmicpc.net/problem/11005
+Problem Name: 진법 변환2
+Author: circleolami
+Date: 2023.09.18
+Version: 1.0
+Algorithm: math
+*/
 #include <iostream>
 #include <algorithm>
 using namespace std;
